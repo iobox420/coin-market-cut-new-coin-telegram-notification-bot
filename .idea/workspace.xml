@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3779790-a9e1-4567-9b2c-5296ea29af35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/node_modules/bl/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/puppeteer/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tar-fs/package.json" />
+    <dismissed value="$PROJECT_DIR$/node_modules/tar-stream/package.json" />
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1xilhBpzqZ2ulouG40s7M9hUqcH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\nodejs\CUP\node_modules\prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3779790-a9e1-4567-9b2c-5296ea29af35" name="Default Changelist" comment="" />
+      <created>1630845906306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630845906306</updated>
+      <workItem from="1630845907396" duration="49218000" />
+      <workItem from="1631001015906" duration="2280000" />
+      <workItem from="1631013155380" duration="8775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="253" width="1094" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630858734493">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="413" y="253" width="1094" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1630858734493" />
+    <state x="0" y="351" key="#xdebugger.XInspectDialog" timestamp="1630856632109">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="0" y="351" key="#xdebugger.XInspectDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1630856632109" />
+    <state width="1918" height="440" key="DebuggerActiveHint" timestamp="1630925800101">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1918" height="440" key="DebuggerActiveHint/0.0.1920.1200@0.0.1920.1200" timestamp="1630925800101" />
+    <state width="1896" height="450" key="GridCell.Tab.0.bottom" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.0.center" timestamp="1631194154741">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154741" />
+    <state width="1896" height="450" key="GridCell.Tab.0.left" timestamp="1631194154741">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154741" />
+    <state width="1896" height="450" key="GridCell.Tab.0.right" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.1.bottom" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.1.center" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.1.left" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.1.right" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.2.bottom" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.2.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.2.center" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.2.center/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.2.left" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.2.left/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state width="1896" height="450" key="GridCell.Tab.2.right" timestamp="1631194154742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1896" height="450" key="GridCell.Tab.2.right/0.0.1920.1200@0.0.1920.1200" timestamp="1631194154742" />
+    <state x="460" y="231" key="SettingsEditor" timestamp="1630852712761">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="460" y="231" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1630852712761" />
+    <state width="968" height="608" key="XDebugger.FullValuePopup" timestamp="1630909822969">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="968" height="608" key="XDebugger.FullValuePopup/0.0.1920.1200@0.0.1920.1200" timestamp="1630909822969" />
+    <state x="616" y="275" width="672" height="677" key="run.anything.popup" timestamp="1630909050086">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="616" y="275" width="672" height="677" key="run.anything.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1630909050086" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="newAr" />
+        <watch expression="oldAr" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

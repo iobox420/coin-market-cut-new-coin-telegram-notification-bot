@@ -1,0 +1,14 @@
+{
+  "name": "parse-coinmarketcup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "date-and-time": "^2.0.0",
+    "html-table-to-json": "^1.0.0",
+    "node-fetch": "2.6.1",
+    "node-telegram-bot-api": "^0.54.0",
+    "prettier": "^2.3.2",
+    "puppeteer": "^10.2.0"
+  }
+}
